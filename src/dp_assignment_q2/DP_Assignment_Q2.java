@@ -20,7 +20,7 @@ public class DP_Assignment_Q2 {
         
         int opt;
         Scanner in = new Scanner(System.in);
-        
+        System.out.print("hi hello");
         System.out.print("Press 1 to run calculate average through Algorithm 1\nPress 2 to run calculate average through Algorithm 2\n");
         System.out.print("Enter Choice :  ");
         opt = in.nextInt();
